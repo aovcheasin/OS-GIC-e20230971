@@ -56,7 +56,7 @@ Explain the difference you observed between `remove` and `purge`.
 Answer: remove uninstalls a package but usually keeps its configuration files, while purge uninstalls the package and also removes its system configuration files. Both commands are used to uninstall software, but purge removes more leftover configuration data.
 
 
-Task 3: ![task 3 screenshot](images/task3.png)
+Task 3: ![task 3 screenshot](images/task3.jpg)
 
 ---
 
@@ -82,7 +82,7 @@ Answer:I observed multitasking by running multiple sleep commands at the same ti
 
 
 
-Task 5: ![task 5 screenshot](images/task5.png)
+Task 5: ![task 5 screenshot](images/task5.jpg)
 
 ---
 
@@ -94,7 +94,7 @@ State whether your system is running on a virtual machine or physical hardware, 
 Answer: My system is running on a virtual machine because i use school server to run the system
 
 
-Task 6: ![task 6 screenshot](images/task6.png)
+Task 6: ![task 6 screenshot](images/task6.jpg)
 ---
 
 ## My Prediction: Confirmed or Corrected
