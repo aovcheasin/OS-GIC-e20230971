@@ -1,0 +1,13 @@
+/home/gic-aov-cheasin/oslab-work/lab1/task2_files
+bridge.txt
+garden.txt
+This is file bridge
+This is file garden
+bridge.txt
+bridge_copy.txt
+garden.txt
+bridge.txt
+bridge_copy.txt
+garden_renamed.txt
+bridge.txt
+garden_renamed.txt
